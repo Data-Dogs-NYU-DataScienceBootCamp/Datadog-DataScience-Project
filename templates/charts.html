@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+{% block content %}
+<h2>Charts & Analysis</h2>
+
+<h3>Sentiment Distribution</h3>
+<canvas id="sentChart" height="110"></canvas>
+
+<h3>Retweets vs Likes by Sentiment</h3>
+<canvas id="scatterChart" height="120"></canvas>
+
+<h3>Daily Post Volume (by sentiment)</h3>
+<canvas id="timeChart" height="120"></canvas>
+
+<h3>Median Engagement Heatmap (DOW × Hour)</h3>
+<canvas id="heatChart" height="160"></canvas>
+{% endblock %}
+
+{% block scripts %}
+<script src="{{ url_for('static', filename='js/analysis_charts.js') }}" defer></script>
+{% endblock %}

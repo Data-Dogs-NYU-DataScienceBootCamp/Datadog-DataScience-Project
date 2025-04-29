@@ -1,0 +1,29 @@
+body { margin:0; font-family:system-ui, sans-serif; }
+#sidebar { width:240px; background:#111; color:#eee; height:100vh; transition:.3s; position:fixed; }
+#sidebar.collapsed { width:60px; }
+#sidebar ul { list-style:none; padding:0; margin:60px 0 0 0; }
+#sidebar li { padding:12px 20px; }
+#sidebar a { color:#eee; text-decoration:none; }
+#toggle { position:absolute; top:10px; left:10px; background:none; border:none; color:#fff; font-size:24px; cursor:pointer; }
+#content { margin-left:240px; padding:20px; transition:.3s; }
+#sidebar.collapsed ~ #content { margin-left:60px; }
+input { padding:6px; margin-right:4px; }
+button { padding:6px 12px; cursor:pointer; }
+.mood-display {
+    margin-top: 16px;
+    display: flex;
+    justify-content: center;   /* centre on page */
+    align-items: center;
+    gap: 14px;
+  }
+  
+  .mood-display .emoji {
+    font-size: 72px;            /* giant emoji */
+    line-height: 1;
+  }
+  
+  .mood-display .label {
+    font-size: 28px;            /* big text */
+    font-weight: 600;
+  }
+  

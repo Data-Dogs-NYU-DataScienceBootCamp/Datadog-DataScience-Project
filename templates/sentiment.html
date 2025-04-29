@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+{% block content %}
+<h2>Live Post Mood</h2>
+<input id="postTxt" placeholder="Type a post…">
+<button onclick="checkSent()">Analyze</button>
+<div id="mood" class="mood-display"></div>
+
+
+<h3>Next-Word Generator</h3>
+<input id="seedTxt" placeholder="Seed text…">
+<button onclick="genText()">Generate</button>
+<p id="genOut"></p>
+
+<h3>Caption Generator (from Keywords)</h3>
+<input id="keywordsTxt" placeholder="Enter keywords or hashtags…">
+<button onclick="genCaption()">Generate Caption</button>
+<p id="captionOut"></p>
+
+{% endblock %}
+
+{% block scripts %}
+<script src="{{ url_for('static', filename='js/charts.js') }}" defer></script>
+{% endblock %}

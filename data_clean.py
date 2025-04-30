@@ -36,7 +36,8 @@ mapping = {
     "negative":"Negative","anger":"Negative","sadness":"Negative",
     "fear":"Negative","hate":"Negative","disgust":"Negative"
 }
-df["Sentiment"] = df["Sentiment"].str.lower().map(mapping).fillna("Neutral")
+df["Sentiment"] = df["Sentiment"].str.strip().str.lower().map(mapping).fillna("Neutral")
+
 
 
 tokenizer = RegexpTokenizer(r"\w+")
@@ -48,7 +49,7 @@ df["Tokens"] = (df["Text"]
 
 
 pathlib.Path("data").mkdir(exist_ok=True)
-df.to_csv("data/sentimentdataset.csv", index=False)
+df.to_csv("Model/sentimentdataset.csv", index=False)
 
 # sentiment distribution for bar-chart
 vc = df["Sentiment"].value_counts()

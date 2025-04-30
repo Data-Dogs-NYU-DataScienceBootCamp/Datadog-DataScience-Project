@@ -1,6 +1,6 @@
 import json, pandas as pd, pathlib, sys
 
-df = pd.read_csv("data/sentimentdataset.csv")
+df = pd.read_csv("Model/sentimentdataset.csv")
 
 #sentiment
 candidates = ["sentiment", "label", "polarity", "target", "category"]

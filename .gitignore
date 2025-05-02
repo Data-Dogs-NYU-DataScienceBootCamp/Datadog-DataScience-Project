@@ -1,0 +1,6 @@
+model_checkpoints/
+Model/
+models/*.h5
+models/*.keras
+models/*.pkl
+*.csv

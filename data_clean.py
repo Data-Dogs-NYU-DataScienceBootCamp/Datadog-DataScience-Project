@@ -9,7 +9,7 @@ nltk.download("stopwords", quiet=True)
 
 from nltk.corpus import stopwords
 
-df = pd.read_csv("data/sentimentdataset.csv")
+df = pd.read_csv("mosdel/sentimentdataset.csv")
 
 
 df = (df

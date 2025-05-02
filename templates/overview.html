@@ -1,10 +1,47 @@
+
 {% extends "base.html" %}
 {% block content %}
+
 <h1>Project Overview</h1>
-<p>This prototype analyses social-media posts in two ways:</p>
+
+<p>This prototype analyzes social media posts in two key ways:</p>
 <ul>
-  <li><strong>Charts & Analysis</strong> – dataset-level insights.</li>
-  <li><strong>Sentiment Analysis</strong> – live mood check + text generator.</li>
+  <li><strong>Charts & Analysis</strong> – Dataset-level insights into platform use, country distribution, hashtag trends, and more.</li>
+  <li><strong>Sentiment Analysis</strong> – Live mood detection and AI-powered text & caption generation.</li>
 </ul>
+
 <p>Use the sidebar to navigate.</p>
+
+<hr>
+
+<h2>About the Dataset</h2>
+<p>This dataset is a collection of social media posts sourced from <strong>Instagram</strong>, <strong>Twitter</strong>, and <strong>Facebook</strong>. Here is the detailed metadata to allow for comprehensive analysis across platforms, countries, and timeframes.</p>
+
+<div class="stats-grid">
+  <div class="stat-card">
+    <h3>🗣️ Total Unique Sentiments</h3>
+    <p>191 distinct values categorized into <strong>Positive</strong>, <strong>Negative</strong>, and <strong>Neutral</strong>.</p>
+  </div>
+  <div class="stat-card">
+    <h3>🌍 Countries Represented</h3>
+    <p><strong>33</strong> different countries are featured in this dataset.</p>
+  </div>
+  <div class="stat-card">
+    <h3>🏷️ Unique Hashtags</h3>
+    <p>Over <strong>975</strong> hashtags were collected and analyzed.</p>
+  </div>
+  <div class="stat-card">
+    <h3>👤 Unique Usernames</h3>
+    <p>The dataset includes <strong>685</strong> distinct users.</p>
+  </div>
+  <div class="stat-card">
+    <h3>📅 Temporal Coverage</h3>
+    <p>Data spans <strong>Year</strong>, <strong>Month</strong>, <strong>Day</strong>, and <strong>Hour</strong> values for trend analysis.</p>
+  </div>
+  <div class="stat-card">
+    <h3>📱 Platforms</h3>
+    <p>Posts were gathered from <strong>Instagram</strong>, <strong>Twitter</strong>, and <strong>Facebook</strong>.</p>
+  </div>
+</div>
+
 {% endblock %}

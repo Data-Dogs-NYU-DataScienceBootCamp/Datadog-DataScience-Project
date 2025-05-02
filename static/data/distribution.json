@@ -1,14 +1,8 @@
 {
   "labels": [
-<<<<<<< HEAD
     "Positive",
     "Negative",
     "Neutral"
-=======
-    "Neutral",
-    "Positive",
-    "Negative"
->>>>>>> a08ee1f5e0bdfcd07abb264bafa489473fcee0de
   ],
   "datasets": [
     {
@@ -19,15 +13,9 @@
         "#f44336"
       ],
       "data": [
-<<<<<<< HEAD
         443,
         178,
         111
-=======
-        594,
-        117,
-        21
->>>>>>> a08ee1f5e0bdfcd07abb264bafa489473fcee0de
       ]
     }
   ]

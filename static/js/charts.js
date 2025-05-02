@@ -1,4 +1,4 @@
-<script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels"></script>
+
 
 // ─── build chart only if we're on the Charts page ────────────────
 const canvas = document.getElementById("sentChart");

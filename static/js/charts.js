@@ -1,3 +1,4 @@
+
 // ─── build chart only if we're on the Charts page ────────────────
 const canvas = document.getElementById("sentChart");
 if (canvas) {

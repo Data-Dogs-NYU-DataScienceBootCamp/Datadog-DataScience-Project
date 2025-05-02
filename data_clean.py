@@ -8,16 +8,9 @@ nltk.download("stopwords", quiet=True)
 
 from nltk.corpus import stopwords
 
-<<<<<<< HEAD
-df = pd.read_csv("mosdel/sentimentdataset.csv")
-
-
-df = (df
-=======
 # ── load & basic clean ────────────────────────────────────────────
 df = (
-    pd.read_csv("data/sentimentdataset.csv")
->>>>>>> 392f590a3c7c429787c87cfa8dd715ff16a8964b
+    pd.read_csv("model/sentimentdataset.csv")
       .drop_duplicates()
       .dropna(subset=["Text"])
       .rename(columns=str.title)

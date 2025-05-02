@@ -1,4 +1,4 @@
-// sidebar toggle – unchanged
+6// sidebar toggle – unchanged
 document.getElementById("toggle").onclick =
   () => document.getElementById("sidebar").classList.toggle("collapsed");
 

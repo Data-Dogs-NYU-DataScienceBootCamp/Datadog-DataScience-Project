@@ -107,14 +107,4 @@ hour_avg = (
 )
 hour_avg.to_json("static/data/hourly.json", orient="records", indent=2)
 
-# --------- platform split -----------------------
-plat = df['Platform'].value_counts()
-platform_json = {
-    "labels": plat.index.tolist(),
-    "data":   plat.tolist(),
-    "colors": ["#1DA1F2", "#E4405F", "#5865F2", "#ff9800", "#9c27b0"]  
-}
-json.dump(platform_json, open("static/data/platform.json", "w"), indent=2)
-
-
 print("✔ JSON files rebuilt in static/data/")

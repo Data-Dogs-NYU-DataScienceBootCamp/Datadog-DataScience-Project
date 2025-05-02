@@ -1,3 +1,4 @@
+<script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels"></script>
 
 // ─── build chart only if we're on the Charts page ────────────────
 const canvas = document.getElementById("sentChart");
@@ -7,11 +8,53 @@ if (canvas) {
     .then(d => {
       new Chart(canvas, {
         type: "bar",
-        data: { labels: d.labels, datasets: [{ data: d.counts }] }
+        data: {
+          labels: d.labels, 
+          datasets: [{
+            label: "Sentiment Distribution",
+            data: d.datasets[0].data,  
+            backgroundColor: d.datasets[0].backgroundColor,
+            borderRadius: 6,
+            barThickness: 50
+          }]
+        },
+        options: {
+          responsive: true,
+          plugins: {
+            legend: { display: false },
+            datalabels: {
+              anchor: 'end',
+              align: 'top',
+              color: '#333',
+              font: {
+                weight: 'bold',
+                size: 14
+              },
+              formatter: value => `${value}`
+            },
+            tooltip: {
+              callbacks: {
+                label: context => ` ${context.label}: ${context.parsed.y}`
+              }
+            }
+          },
+          scales: {
+            x: {
+              ticks: { font: { size: 14 } },
+              grid: { display: false }
+            },
+            y: {
+              beginAtZero: true,
+              ticks: { font: { size: 14 } }
+            }
+          }
+        },
+        plugins: [ChartDataLabels]
       });
     })
     .catch(err => console.error("Chart load error:", err));
 }
+
 
 // ─── live sentiment (Sentiment Analysis page) ───────────────────
 async function checkSent() {

@@ -9,8 +9,6 @@
 
 </head>
 <body>
-    {% block scripts %}{% endblock %}
-
   <div id="sidebar">
     <button id="toggle">☰</button>
     <ul>
@@ -22,6 +20,16 @@
   </div>
 
   <div id="content">{% block content %}{% endblock %}</div>
-
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {
+      const toggle = document.getElementById("toggle");
+      const sidebar = document.getElementById("sidebar");
+  
+      toggle.addEventListener("click", () => {
+        sidebar.classList.toggle("collapsed");
+      });
+    });
+  </script>
+ {% block scripts %}{% endblock %}
 </body>
 </html>

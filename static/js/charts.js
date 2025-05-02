@@ -1,7 +1,3 @@
-// sidebar toggle – unchanged
-document.getElementById("toggle").onclick =
-  () => document.getElementById("sidebar").classList.toggle("collapsed");
-
 // ─── build chart only if we're on the Charts page ────────────────
 const canvas = document.getElementById("sentChart");
 if (canvas) {

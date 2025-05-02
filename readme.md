@@ -19,12 +19,17 @@ A small Flask app that:
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## 3. Order of Execution
+```bash
 python data_clean.py
 python train_lstm.py
 python train_sentiment.py
 python data_prep.py
+```
 
 ## 4. Start the app
+```bash
 python app.py
+```

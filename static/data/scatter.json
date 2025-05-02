@@ -322,7 +322,7 @@
   {
     "retweets":18,
     "likes":35,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":25,
@@ -332,27 +332,27 @@
   {
     "retweets":15,
     "likes":30,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":22,
     "likes":45,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":20,
     "likes":40,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":18,
     "likes":35,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":15,
     "likes":30,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":25,
@@ -362,22 +362,22 @@
   {
     "retweets":22,
     "likes":45,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":20,
     "likes":40,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":30,
     "likes":60,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":15,
     "likes":30,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":20,
@@ -442,7 +442,7 @@
   {
     "retweets":18,
     "likes":35,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":25,
@@ -452,27 +452,27 @@
   {
     "retweets":15,
     "likes":30,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":22,
     "likes":45,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":20,
     "likes":40,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":18,
     "likes":35,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":15,
     "likes":30,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":25,
@@ -482,12 +482,42 @@
   {
     "retweets":22,
     "likes":45,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":20,
     "likes":40,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":30,
+    "likes":60,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":15,
+    "likes":30,
+    "sentiment":"Negative"
+  },
+  {
+    "retweets":22,
+    "likes":45,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":18,
+    "likes":35,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":15,
+    "likes":30,
+    "sentiment":"Negative"
+  },
+  {
+    "retweets":15,
+    "likes":30,
+    "sentiment":"Positive"
   },
   {
     "retweets":30,
@@ -495,384 +525,314 @@
     "sentiment":"Neutral"
   },
   {
-    "retweets":15,
-    "likes":30,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":22,
-    "likes":45,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":18,
-    "likes":35,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":15,
-    "likes":30,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":15,
-    "likes":30,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":30,
-    "likes":60,
-    "sentiment":"Neutral"
-  },
-  {
     "retweets":25,
     "likes":50,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":22,
     "likes":45,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":12,
     "likes":25,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":15,
     "likes":30,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":20,
     "likes":40,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":15,
     "likes":30,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":25,
     "likes":50,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":18,
     "likes":35,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":30,
     "likes":60,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":22,
     "likes":45,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":15,
     "likes":30,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":18,
     "likes":35,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":25,
     "likes":50,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":20,
     "likes":40,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":15,
     "likes":30,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":22,
     "likes":45,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":18,
     "likes":35,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":25,
     "likes":50,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":15,
     "likes":30,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":30,
     "likes":60,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":22,
     "likes":45,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":15,
     "likes":30,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":18,
     "likes":35,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":25,
     "likes":50,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":18,
     "likes":35,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":25,
     "likes":50,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":20,
     "likes":40,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":15,
     "likes":30,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":22,
     "likes":45,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":18,
     "likes":35,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":25,
     "likes":50,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":20,
     "likes":40,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":15,
     "likes":30,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":25,
     "likes":50,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":18,
     "likes":35,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":30,
     "likes":60,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":22,
     "likes":45,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":15,
     "likes":30,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":18,
     "likes":35,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":25,
     "likes":50,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":20,
     "likes":40,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":15,
     "likes":30,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":22,
     "likes":45,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":18,
     "likes":35,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":25,
     "likes":50,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":15,
     "likes":30,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":30,
     "likes":60,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":22,
     "likes":45,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":15,
     "likes":30,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":18,
     "likes":35,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":25,
     "likes":50,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":18,
     "likes":35,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":25,
     "likes":50,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":20,
     "likes":40,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":15,
     "likes":30,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":22,
     "likes":45,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":18,
     "likes":35,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":25,
     "likes":50,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":5,
     "likes":10,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":8,
     "likes":15,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":10,
     "likes":20,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":12,
     "likes":25,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":7,
-    "likes":15,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":10,
-    "likes":20,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":8,
-    "likes":15,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":12,
-    "likes":25,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":15,
-    "likes":30,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":8,
-    "likes":15,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":10,
-    "likes":20,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":12,
-    "likes":25,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":7,
@@ -882,62 +842,37 @@
   {
     "retweets":10,
     "likes":20,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":12,
-    "likes":25,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":15,
-    "likes":30,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":8,
     "likes":15,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":10,
-    "likes":20,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":12,
     "likes":25,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":7,
-    "likes":15,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":10,
-    "likes":20,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":15,
     "likes":30,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":8,
     "likes":15,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":10,
     "likes":20,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":12,
     "likes":25,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":7,
@@ -947,31 +882,106 @@
   {
     "retweets":10,
     "likes":20,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":12,
     "likes":25,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":15,
     "likes":30,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":8,
     "likes":15,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":10,
     "likes":20,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":12,
     "likes":25,
+    "sentiment":"Negative"
+  },
+  {
+    "retweets":7,
+    "likes":15,
+    "sentiment":"Negative"
+  },
+  {
+    "retweets":10,
+    "likes":20,
+    "sentiment":"Negative"
+  },
+  {
+    "retweets":15,
+    "likes":30,
+    "sentiment":"Negative"
+  },
+  {
+    "retweets":8,
+    "likes":15,
+    "sentiment":"Negative"
+  },
+  {
+    "retweets":10,
+    "likes":20,
+    "sentiment":"Negative"
+  },
+  {
+    "retweets":12,
+    "likes":25,
+    "sentiment":"Negative"
+  },
+  {
+    "retweets":7,
+    "likes":15,
+    "sentiment":"Negative"
+  },
+  {
+    "retweets":10,
+    "likes":20,
+    "sentiment":"Negative"
+  },
+  {
+    "retweets":12,
+    "likes":25,
+    "sentiment":"Negative"
+  },
+  {
+    "retweets":15,
+    "likes":30,
+    "sentiment":"Negative"
+  },
+  {
+    "retweets":8,
+    "likes":15,
+    "sentiment":"Negative"
+  },
+  {
+    "retweets":10,
+    "likes":20,
+    "sentiment":"Negative"
+  },
+  {
+    "retweets":12,
+    "likes":25,
+    "sentiment":"Negative"
+  },
+  {
+    "retweets":7,
+    "likes":15,
+    "sentiment":"Negative"
+  },
+  {
+    "retweets":15,
+    "likes":30,
     "sentiment":"Neutral"
   },
   {
@@ -980,16 +990,6 @@
     "sentiment":"Neutral"
   },
   {
-    "retweets":15,
-    "likes":30,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":7,
-    "likes":15,
-    "sentiment":"Neutral"
-  },
-  {
     "retweets":10,
     "likes":20,
     "sentiment":"Neutral"
@@ -1017,7 +1017,7 @@
   {
     "retweets":15,
     "likes":30,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":10,
@@ -1027,7 +1027,7 @@
   {
     "retweets":12,
     "likes":25,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":20,
@@ -1067,7 +1067,7 @@
   {
     "retweets":15,
     "likes":30,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":18,
@@ -1077,7 +1077,7 @@
   {
     "retweets":25,
     "likes":50,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":22,
@@ -1117,7 +1117,7 @@
   {
     "retweets":18,
     "likes":36,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":20,
@@ -1127,7 +1127,7 @@
   {
     "retweets":25,
     "likes":50,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":9,
@@ -1162,7 +1162,7 @@
   {
     "retweets":18,
     "likes":36,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":20,
@@ -1172,7 +1172,7 @@
   {
     "retweets":25,
     "likes":50,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":22,
@@ -1212,7 +1212,7 @@
   {
     "retweets":18,
     "likes":36,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":20,
@@ -1222,7 +1222,7 @@
   {
     "retweets":25,
     "likes":50,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":22,
@@ -1237,17 +1237,17 @@
   {
     "retweets":15,
     "likes":30,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":18,
     "likes":36,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":12,
     "likes":24,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":25,
@@ -1257,47 +1257,47 @@
   {
     "retweets":20,
     "likes":40,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":15,
     "likes":30,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":18,
     "likes":36,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":22,
     "likes":44,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":20,
     "likes":40,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":15,
     "likes":30,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":12,
     "likes":24,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":25,
     "likes":50,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":13,
     "likes":26,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":17,
@@ -1312,17 +1312,17 @@
   {
     "retweets":19,
     "likes":38,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":16,
     "likes":32,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":21,
     "likes":42,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":23,
@@ -1332,67 +1332,67 @@
   {
     "retweets":14,
     "likes":28,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":24,
     "likes":48,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":18,
     "likes":36,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":20,
     "likes":40,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":16,
     "likes":32,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":22,
     "likes":44,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":19,
     "likes":38,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":23,
     "likes":46,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":15,
     "likes":30,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":25,
     "likes":50,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":14,
     "likes":28,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":17,
     "likes":34,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":21,
     "likes":42,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":23,
@@ -1402,67 +1402,67 @@
   {
     "retweets":14,
     "likes":28,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":24,
     "likes":48,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":18,
     "likes":36,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":20,
     "likes":40,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":16,
     "likes":32,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":22,
     "likes":44,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":19,
     "likes":38,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":23,
     "likes":46,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":15,
     "likes":30,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":25,
     "likes":50,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":14,
     "likes":28,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":17,
     "likes":34,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":21,
     "likes":42,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":23,
@@ -1472,192 +1472,192 @@
   {
     "retweets":14,
     "likes":28,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":24,
     "likes":48,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":8,
     "likes":16,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":12,
     "likes":24,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":15,
     "likes":30,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":10,
     "likes":20,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":18,
     "likes":36,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":14,
     "likes":28,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":22,
     "likes":44,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":16,
     "likes":32,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":25,
     "likes":50,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":12,
     "likes":24,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":20,
     "likes":40,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":14,
     "likes":28,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":15,
     "likes":30,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":18,
     "likes":36,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":13,
     "likes":26,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":10,
     "likes":20,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":20,
     "likes":40,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":16,
     "likes":32,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":25,
     "likes":50,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":14,
     "likes":28,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":20,
     "likes":40,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":12,
     "likes":24,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":8,
     "likes":16,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":15,
     "likes":30,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":18,
     "likes":36,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":10,
     "likes":20,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":18,
     "likes":36,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":14,
     "likes":28,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":22,
     "likes":44,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":16,
     "likes":32,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":25,
     "likes":50,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":14,
     "likes":28,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":20,
     "likes":40,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":12,
     "likes":24,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":15,
     "likes":30,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":18,
     "likes":36,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":28,
@@ -1677,32 +1677,32 @@
   {
     "retweets":40,
     "likes":80,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":18,
     "likes":35,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":25,
     "likes":50,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":30,
     "likes":60,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":35,
     "likes":70,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":20,
     "likes":40,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":18,
@@ -1717,27 +1717,27 @@
   {
     "retweets":18,
     "likes":35,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":30,
     "likes":60,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":40,
     "likes":80,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":22,
     "likes":45,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":35,
     "likes":70,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":15,
@@ -1752,32 +1752,32 @@
   {
     "retweets":20,
     "likes":40,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":30,
     "likes":60,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":25,
     "likes":50,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":18,
     "likes":35,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":22,
     "likes":45,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":40,
     "likes":80,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":35,
@@ -1792,47 +1792,7 @@
   {
     "retweets":28,
     "likes":55,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":15,
-    "likes":30,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":25,
-    "likes":50,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":30,
-    "likes":60,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":18,
-    "likes":35,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":22,
-    "likes":45,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":35,
-    "likes":70,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":20,
-    "likes":40,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":28,
-    "likes":55,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":15,
@@ -1840,49 +1800,14 @@
     "sentiment":"Positive"
   },
   {
-    "retweets":40,
-    "likes":80,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":18,
-    "likes":35,
-    "sentiment":"Neutral"
-  },
-  {
     "retweets":25,
     "likes":50,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":18,
-    "likes":35,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":22,
-    "likes":45,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":35,
-    "likes":70,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":30,
     "likes":60,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":28,
-    "likes":55,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":20,
-    "likes":40,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":18,
@@ -1892,27 +1817,32 @@
   {
     "retweets":22,
     "likes":45,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":35,
     "likes":70,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":20,
+    "likes":40,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":28,
+    "likes":55,
+    "sentiment":"Positive"
   },
   {
     "retweets":15,
     "likes":30,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":25,
-    "likes":50,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":40,
     "likes":80,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":18,
@@ -1920,29 +1850,9 @@
     "sentiment":"Neutral"
   },
   {
-    "retweets":28,
-    "likes":55,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":30,
-    "likes":60,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":22,
-    "likes":45,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":35,
-    "likes":70,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":20,
-    "likes":40,
-    "sentiment":"Neutral"
+    "retweets":25,
+    "likes":50,
+    "sentiment":"Positive"
   },
   {
     "retweets":18,
@@ -1950,39 +1860,29 @@
     "sentiment":"Positive"
   },
   {
-    "retweets":25,
-    "likes":50,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":18,
-    "likes":35,
-    "sentiment":"Neutral"
-  },
-  {
     "retweets":22,
     "likes":45,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":35,
     "likes":70,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":30,
     "likes":60,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":28,
     "likes":55,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":20,
     "likes":40,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":18,
@@ -1992,61 +1892,96 @@
   {
     "retweets":22,
     "likes":45,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":35,
     "likes":70,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":15,
     "likes":30,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":25,
     "likes":50,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":40,
     "likes":80,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":18,
     "likes":35,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":28,
     "likes":55,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":30,
     "likes":60,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":22,
     "likes":45,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":35,
     "likes":70,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":20,
     "likes":40,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":18,
     "likes":35,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":25,
+    "likes":50,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":18,
+    "likes":35,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":22,
+    "likes":45,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":35,
+    "likes":70,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":30,
+    "likes":60,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":28,
+    "likes":55,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":20,
+    "likes":40,
     "sentiment":"Positive"
   },
   {
@@ -2057,52 +1992,62 @@
   {
     "retweets":22,
     "likes":45,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":28,
-    "likes":55,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":35,
     "likes":70,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":20,
-    "likes":40,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":25,
-    "likes":50,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":30,
-    "likes":60,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":18,
-    "likes":35,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":22,
-    "likes":45,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":28,
-    "likes":55,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":15,
     "likes":30,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":25,
+    "likes":50,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":40,
+    "likes":80,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":18,
+    "likes":35,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":28,
+    "likes":55,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":30,
+    "likes":60,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":22,
+    "likes":45,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":35,
+    "likes":70,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":20,
+    "likes":40,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":18,
+    "likes":35,
+    "sentiment":"Positive"
   },
   {
     "retweets":18,
@@ -2112,16 +2057,21 @@
   {
     "retweets":22,
     "likes":45,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":28,
     "likes":55,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":35,
+    "likes":70,
     "sentiment":"Neutral"
   },
   {
-    "retweets":22,
-    "likes":45,
+    "retweets":20,
+    "likes":40,
     "sentiment":"Neutral"
   },
   {
@@ -2132,127 +2082,87 @@
   {
     "retweets":30,
     "likes":60,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":18,
     "likes":35,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":22,
+    "likes":45,
+    "sentiment":"Positive"
   },
   {
     "retweets":28,
     "likes":55,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":35,
-    "likes":70,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":20,
-    "likes":40,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":22,
-    "likes":45,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":40,
-    "likes":80,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":18,
-    "likes":35,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":25,
-    "likes":50,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":35,
-    "likes":70,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":18,
-    "likes":35,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":28,
-    "likes":55,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":22,
-    "likes":45,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":20,
-    "likes":40,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":20,
-    "likes":40,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":25,
-    "likes":50,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":18,
-    "likes":35,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":22,
-    "likes":45,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":15,
     "likes":30,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
-    "retweets":28,
-    "likes":55,
-    "sentiment":"Neutral"
+    "retweets":18,
+    "likes":35,
+    "sentiment":"Negative"
   },
   {
     "retweets":22,
     "likes":45,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
-    "retweets":30,
-    "likes":60,
-    "sentiment":"Neutral"
+    "retweets":28,
+    "likes":55,
+    "sentiment":"Negative"
+  },
+  {
+    "retweets":22,
+    "likes":45,
+    "sentiment":"Negative"
   },
   {
     "retweets":25,
     "likes":50,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":35,
-    "likes":70,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":30,
     "likes":60,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
+  },
+  {
+    "retweets":18,
+    "likes":35,
+    "sentiment":"Negative"
+  },
+  {
+    "retweets":28,
+    "likes":55,
+    "sentiment":"Negative"
+  },
+  {
+    "retweets":35,
+    "likes":70,
+    "sentiment":"Negative"
+  },
+  {
+    "retweets":20,
+    "likes":40,
+    "sentiment":"Negative"
+  },
+  {
+    "retweets":22,
+    "likes":45,
+    "sentiment":"Negative"
+  },
+  {
+    "retweets":40,
+    "likes":80,
+    "sentiment":"Negative"
   },
   {
     "retweets":18,
@@ -2260,654 +2170,744 @@
     "sentiment":"Neutral"
   },
   {
+    "retweets":25,
+    "likes":50,
+    "sentiment":"Negative"
+  },
+  {
+    "retweets":35,
+    "likes":70,
+    "sentiment":"Negative"
+  },
+  {
+    "retweets":18,
+    "likes":35,
+    "sentiment":"Negative"
+  },
+  {
     "retweets":28,
     "likes":55,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":22,
     "likes":45,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":20,
     "likes":40,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
+  },
+  {
+    "retweets":20,
+    "likes":40,
+    "sentiment":"Negative"
   },
   {
     "retweets":25,
     "likes":50,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
+  },
+  {
+    "retweets":18,
+    "likes":35,
+    "sentiment":"Negative"
+  },
+  {
+    "retweets":22,
+    "likes":45,
+    "sentiment":"Negative"
   },
   {
     "retweets":15,
     "likes":30,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":22,
-    "likes":45,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":18,
-    "likes":35,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":28,
     "likes":55,
+    "sentiment":"Negative"
+  },
+  {
+    "retweets":22,
+    "likes":45,
+    "sentiment":"Negative"
+  },
+  {
+    "retweets":30,
+    "likes":60,
+    "sentiment":"Negative"
+  },
+  {
+    "retweets":25,
+    "likes":50,
+    "sentiment":"Negative"
+  },
+  {
+    "retweets":35,
+    "likes":70,
     "sentiment":"Neutral"
   },
   {
     "retweets":30,
     "likes":60,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":18,
     "likes":35,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":22,
-    "likes":45,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":25,
-    "likes":50,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":20,
-    "likes":40,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":28,
     "likes":55,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":18,
-    "likes":35,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":22,
     "likes":45,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
+  },
+  {
+    "retweets":20,
+    "likes":40,
+    "sentiment":"Negative"
+  },
+  {
+    "retweets":25,
+    "likes":50,
+    "sentiment":"Negative"
   },
   {
     "retweets":15,
     "likes":30,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":30,
-    "likes":60,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":40,
-    "likes":80,
-    "sentiment":"Positive"
-  },
-  {
-    "retweets":35,
-    "likes":70,
-    "sentiment":"Positive"
-  },
-  {
-    "retweets":25,
-    "likes":50,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":30,
-    "likes":60,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":22,
     "likes":45,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
+  },
+  {
+    "retweets":18,
+    "likes":35,
+    "sentiment":"Negative"
   },
   {
     "retweets":28,
     "likes":55,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
+  },
+  {
+    "retweets":30,
+    "likes":60,
+    "sentiment":"Negative"
   },
   {
     "retweets":18,
     "likes":35,
     "sentiment":"Neutral"
+  },
+  {
+    "retweets":22,
+    "likes":45,
+    "sentiment":"Negative"
+  },
+  {
+    "retweets":25,
+    "likes":50,
+    "sentiment":"Negative"
   },
   {
     "retweets":20,
     "likes":40,
-    "sentiment":"Positive"
-  },
-  {
-    "retweets":25,
-    "likes":50,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":30,
-    "likes":60,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":35,
-    "likes":70,
-    "sentiment":"Positive"
-  },
-  {
-    "retweets":40,
-    "likes":80,
-    "sentiment":"Positive"
-  },
-  {
-    "retweets":30,
-    "likes":60,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":25,
-    "likes":50,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":22,
-    "likes":45,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":28,
     "likes":55,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":18,
     "likes":35,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":22,
     "likes":45,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":30,
-    "likes":60,
-    "sentiment":"Positive"
-  },
-  {
-    "retweets":35,
-    "likes":70,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":28,
-    "likes":55,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":30,
-    "likes":60,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":22,
-    "likes":45,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":35,
-    "likes":70,
-    "sentiment":"Positive"
-  },
-  {
-    "retweets":18,
-    "likes":35,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":25,
-    "likes":50,
-    "sentiment":"Positive"
-  },
-  {
-    "retweets":22,
-    "likes":45,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":30,
-    "likes":60,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":20,
-    "likes":40,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":28,
-    "likes":55,
-    "sentiment":"Positive"
-  },
-  {
-    "retweets":35,
-    "likes":70,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":25,
-    "likes":50,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":22,
-    "likes":45,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":30,
-    "likes":60,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":18,
-    "likes":35,
-    "sentiment":"Positive"
-  },
-  {
-    "retweets":28,
-    "likes":55,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":20,
-    "likes":40,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":22,
-    "likes":45,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":25,
-    "likes":50,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":22,
-    "likes":45,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":40,
-    "likes":80,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":35,
-    "likes":70,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":30,
-    "likes":60,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":22,
-    "likes":45,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":18,
-    "likes":35,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":28,
-    "likes":55,
-    "sentiment":"Positive"
-  },
-  {
-    "retweets":25,
-    "likes":50,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":22,
-    "likes":45,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":35,
-    "likes":70,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":30,
-    "likes":60,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":40,
-    "likes":80,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":35,
-    "likes":70,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":30,
-    "likes":60,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":22,
-    "likes":45,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":18,
-    "likes":35,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":28,
-    "likes":55,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":25,
-    "likes":50,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":22,
-    "likes":45,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":35,
-    "likes":70,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":30,
-    "likes":60,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":40,
-    "likes":80,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":35,
-    "likes":70,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":30,
-    "likes":60,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":22,
-    "likes":45,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":28,
-    "likes":55,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":18,
-    "likes":35,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":22,
-    "likes":45,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":28,
-    "likes":55,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":35,
-    "likes":70,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":22,
-    "likes":45,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":40,
-    "likes":80,
-    "sentiment":"Positive"
-  },
-  {
-    "retweets":35,
-    "likes":70,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":30,
-    "likes":60,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":22,
-    "likes":45,
-    "sentiment":"Positive"
-  },
-  {
-    "retweets":28,
-    "likes":55,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":18,
-    "likes":35,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":22,
-    "likes":45,
-    "sentiment":"Positive"
-  },
-  {
-    "retweets":28,
-    "likes":55,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":35,
-    "likes":70,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":22,
-    "likes":45,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":40,
-    "likes":80,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":35,
-    "likes":70,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":30,
-    "likes":60,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":22,
-    "likes":45,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":28,
-    "likes":55,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":18,
-    "likes":35,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":22,
-    "likes":45,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":28,
-    "likes":55,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":35,
-    "likes":70,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":22,
-    "likes":45,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":40,
-    "likes":80,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":35,
-    "likes":70,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":30,
-    "likes":60,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":22,
-    "likes":45,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":28,
-    "likes":55,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":18,
-    "likes":35,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":22,
-    "likes":45,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":28,
-    "likes":55,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":35,
-    "likes":70,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":22,
-    "likes":45,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":40,
-    "likes":80,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":35,
-    "likes":70,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":30,
-    "likes":60,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":22,
-    "likes":45,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":28,
-    "likes":55,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":18,
-    "likes":35,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":22,
-    "likes":45,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":28,
-    "likes":55,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":22,
-    "likes":45,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":35,
-    "likes":70,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":15,
     "likes":30,
+    "sentiment":"Negative"
+  },
+  {
+    "retweets":30,
+    "likes":60,
+    "sentiment":"Neutral"
+  },
+  {
+    "retweets":40,
+    "likes":80,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":35,
+    "likes":70,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":25,
+    "likes":50,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":30,
+    "likes":60,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":22,
+    "likes":45,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":28,
+    "likes":55,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":18,
+    "likes":35,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":20,
+    "likes":40,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":25,
+    "likes":50,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":30,
+    "likes":60,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":35,
+    "likes":70,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":40,
+    "likes":80,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":30,
+    "likes":60,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":25,
+    "likes":50,
+    "sentiment":"Neutral"
+  },
+  {
+    "retweets":22,
+    "likes":45,
+    "sentiment":"Neutral"
+  },
+  {
+    "retweets":28,
+    "likes":55,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":18,
+    "likes":35,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":22,
+    "likes":45,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":30,
+    "likes":60,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":35,
+    "likes":70,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":28,
+    "likes":55,
+    "sentiment":"Neutral"
+  },
+  {
+    "retweets":30,
+    "likes":60,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":22,
+    "likes":45,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":35,
+    "likes":70,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":18,
+    "likes":35,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":25,
+    "likes":50,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":22,
+    "likes":45,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":30,
+    "likes":60,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":20,
+    "likes":40,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":28,
+    "likes":55,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":35,
+    "likes":70,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":25,
+    "likes":50,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":22,
+    "likes":45,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":30,
+    "likes":60,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":18,
+    "likes":35,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":28,
+    "likes":55,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":20,
+    "likes":40,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":22,
+    "likes":45,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":25,
+    "likes":50,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":22,
+    "likes":45,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":40,
+    "likes":80,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":35,
+    "likes":70,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":30,
+    "likes":60,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":22,
+    "likes":45,
     "sentiment":"Neutral"
   },
   {
     "retweets":18,
     "likes":35,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":28,
+    "likes":55,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":25,
+    "likes":50,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":22,
+    "likes":45,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":35,
+    "likes":70,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":30,
+    "likes":60,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":40,
+    "likes":80,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":35,
+    "likes":70,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":30,
+    "likes":60,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":22,
+    "likes":45,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":18,
+    "likes":35,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":28,
+    "likes":55,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":25,
+    "likes":50,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":22,
+    "likes":45,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":35,
+    "likes":70,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":30,
+    "likes":60,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":40,
+    "likes":80,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":35,
+    "likes":70,
     "sentiment":"Neutral"
+  },
+  {
+    "retweets":30,
+    "likes":60,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":22,
+    "likes":45,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":28,
+    "likes":55,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":18,
+    "likes":35,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":22,
+    "likes":45,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":28,
+    "likes":55,
+    "sentiment":"Neutral"
+  },
+  {
+    "retweets":35,
+    "likes":70,
+    "sentiment":"Neutral"
+  },
+  {
+    "retweets":22,
+    "likes":45,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":40,
+    "likes":80,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":35,
+    "likes":70,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":30,
+    "likes":60,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":22,
+    "likes":45,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":28,
+    "likes":55,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":18,
+    "likes":35,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":22,
+    "likes":45,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":28,
+    "likes":55,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":35,
+    "likes":70,
+    "sentiment":"Neutral"
+  },
+  {
+    "retweets":22,
+    "likes":45,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":40,
+    "likes":80,
+    "sentiment":"Negative"
+  },
+  {
+    "retweets":35,
+    "likes":70,
+    "sentiment":"Negative"
+  },
+  {
+    "retweets":30,
+    "likes":60,
+    "sentiment":"Neutral"
+  },
+  {
+    "retweets":22,
+    "likes":45,
+    "sentiment":"Negative"
+  },
+  {
+    "retweets":28,
+    "likes":55,
+    "sentiment":"Neutral"
+  },
+  {
+    "retweets":18,
+    "likes":35,
+    "sentiment":"Negative"
+  },
+  {
+    "retweets":22,
+    "likes":45,
+    "sentiment":"Neutral"
+  },
+  {
+    "retweets":28,
+    "likes":55,
+    "sentiment":"Negative"
+  },
+  {
+    "retweets":35,
+    "likes":70,
+    "sentiment":"Neutral"
+  },
+  {
+    "retweets":22,
+    "likes":45,
+    "sentiment":"Negative"
+  },
+  {
+    "retweets":40,
+    "likes":80,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":35,
+    "likes":70,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":30,
+    "likes":60,
+    "sentiment":"Neutral"
+  },
+  {
+    "retweets":22,
+    "likes":45,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":28,
+    "likes":55,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":18,
+    "likes":35,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":22,
+    "likes":45,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":28,
+    "likes":55,
+    "sentiment":"Neutral"
+  },
+  {
+    "retweets":35,
+    "likes":70,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":22,
+    "likes":45,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":40,
+    "likes":80,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":35,
+    "likes":70,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":30,
+    "likes":60,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":22,
+    "likes":45,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":28,
+    "likes":55,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":18,
+    "likes":35,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":22,
+    "likes":45,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":28,
+    "likes":55,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":22,
+    "likes":45,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":35,
+    "likes":70,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":15,
+    "likes":30,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":18,
+    "likes":35,
+    "sentiment":"Negative"
   },
   {
     "retweets":22,
@@ -2917,7 +2917,7 @@
   {
     "retweets":20,
     "likes":40,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":25,
@@ -2932,7 +2932,7 @@
   {
     "retweets":28,
     "likes":55,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":22,
@@ -2952,7 +2952,7 @@
   {
     "retweets":22,
     "likes":45,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":35,
@@ -2962,12 +2962,12 @@
   {
     "retweets":20,
     "likes":40,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":28,
     "likes":55,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":22,
@@ -2977,12 +2977,12 @@
   {
     "retweets":25,
     "likes":50,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":18,
     "likes":35,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":28,
@@ -2997,7 +2997,7 @@
   {
     "retweets":35,
     "likes":70,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":20,
@@ -3012,12 +3012,12 @@
   {
     "retweets":35,
     "likes":70,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":28,
     "likes":55,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":22,
@@ -3027,7 +3027,7 @@
   {
     "retweets":25,
     "likes":50,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":30,
@@ -3047,7 +3047,7 @@
   {
     "retweets":28,
     "likes":55,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":22,
@@ -3058,41 +3058,6 @@
     "retweets":20,
     "likes":40,
     "sentiment":"Positive"
-  },
-  {
-    "retweets":18,
-    "likes":35,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":25,
-    "likes":50,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":28,
-    "likes":55,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":22,
-    "likes":45,
-    "sentiment":"Positive"
-  },
-  {
-    "retweets":35,
-    "likes":70,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":30,
-    "likes":60,
-    "sentiment":"Neutral"
-  },
-  {
-    "retweets":20,
-    "likes":40,
-    "sentiment":"Neutral"
   },
   {
     "retweets":18,
@@ -3107,12 +3072,47 @@
   {
     "retweets":28,
     "likes":55,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":22,
+    "likes":45,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":35,
+    "likes":70,
+    "sentiment":"Positive"
   },
   {
     "retweets":30,
     "likes":60,
     "sentiment":"Neutral"
+  },
+  {
+    "retweets":20,
+    "likes":40,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":18,
+    "likes":35,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":25,
+    "likes":50,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":28,
+    "likes":55,
+    "sentiment":"Positive"
+  },
+  {
+    "retweets":30,
+    "likes":60,
+    "sentiment":"Positive"
   },
   {
     "retweets":22,
@@ -3127,7 +3127,7 @@
   {
     "retweets":35,
     "likes":70,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":18,
@@ -3147,7 +3147,7 @@
   {
     "retweets":30,
     "likes":60,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":20,
@@ -3157,17 +3157,17 @@
   {
     "retweets":28,
     "likes":55,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":22,
     "likes":45,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":25,
     "likes":50,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":35,
@@ -3187,7 +3187,7 @@
   {
     "retweets":30,
     "likes":60,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":18,
@@ -3202,27 +3202,27 @@
   {
     "retweets":22,
     "likes":45,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":30,
     "likes":60,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":20,
     "likes":40,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":25,
     "likes":50,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":18,
     "likes":35,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":22,
@@ -3232,7 +3232,7 @@
   {
     "retweets":30,
     "likes":60,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":28,
@@ -3242,12 +3242,12 @@
   {
     "retweets":22,
     "likes":45,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":30,
     "likes":60,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":20,
@@ -3267,12 +3267,12 @@
   {
     "retweets":25,
     "likes":50,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":35,
     "likes":70,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":20,
@@ -3282,32 +3282,32 @@
   {
     "retweets":28,
     "likes":55,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":30,
     "likes":60,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":18,
     "likes":35,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":25,
     "likes":50,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":22,
     "likes":45,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":30,
     "likes":60,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":15,
@@ -3317,17 +3317,17 @@
   {
     "retweets":22,
     "likes":40,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":28,
     "likes":55,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":20,
     "likes":38,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":25,
@@ -3337,12 +3337,12 @@
   {
     "retweets":18,
     "likes":35,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":22,
     "likes":45,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":18,
@@ -3352,7 +3352,7 @@
   {
     "retweets":26,
     "likes":48,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":20,
@@ -3362,7 +3362,7 @@
   {
     "retweets":24,
     "likes":42,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":21,
@@ -3372,12 +3372,12 @@
   {
     "retweets":17,
     "likes":33,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":23,
     "likes":44,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":19,
@@ -3387,7 +3387,7 @@
   {
     "retweets":27,
     "likes":52,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":22,
@@ -3397,7 +3397,7 @@
   {
     "retweets":20,
     "likes":39,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":26,
@@ -3407,17 +3407,17 @@
   {
     "retweets":16,
     "likes":32,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":23,
     "likes":42,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":15,
     "likes":28,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":18,
@@ -3427,12 +3427,12 @@
   {
     "retweets":20,
     "likes":40,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":17,
     "likes":34,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":21,
@@ -3442,17 +3442,17 @@
   {
     "retweets":19,
     "likes":38,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":22,
     "likes":44,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":16,
     "likes":31,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":14,
@@ -3462,12 +3462,12 @@
   {
     "retweets":18,
     "likes":35,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":20,
     "likes":39,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":23,
@@ -3477,17 +3477,17 @@
   {
     "retweets":25,
     "likes":50,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":21,
     "likes":42,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":19,
     "likes":37,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":16,
@@ -3497,12 +3497,12 @@
   {
     "retweets":18,
     "likes":36,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":21,
     "likes":41,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":24,
@@ -3512,12 +3512,12 @@
   {
     "retweets":22,
     "likes":43,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":20,
     "likes":39,
-    "sentiment":"Neutral"
+    "sentiment":"Negative"
   },
   {
     "retweets":23,
@@ -3592,71 +3592,71 @@
   {
     "retweets":27,
     "likes":52,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":24,
     "likes":48,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":19,
     "likes":38,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":21,
     "likes":42,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":26,
     "likes":50,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":23,
     "likes":45,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":22,
     "likes":43,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":23,
     "likes":44,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":26,
     "likes":51,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":20,
     "likes":39,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":25,
     "likes":48,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":22,
     "likes":42,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":21,
     "likes":43,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   },
   {
     "retweets":24,
     "likes":47,
-    "sentiment":"Neutral"
+    "sentiment":"Positive"
   }
 ]

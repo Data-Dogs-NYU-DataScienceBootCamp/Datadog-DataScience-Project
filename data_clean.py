@@ -10,7 +10,7 @@ from nltk.corpus import stopwords
 
 # ── load & basic clean ────────────────────────────────────────────
 df = (
-    pd.read_csv("model/sentimentdataset.csv")
+    pd.read_csv("data/sentimentdataset.csv")
       .drop_duplicates()
       .dropna(subset=["Text"])
       .rename(columns=str.title)
@@ -24,14 +24,66 @@ df["Platform"] = df["Platform"].astype(str).str.strip().str.title()
 
 # ── sentiment mapping to 3 buckets ───────────────────────────────
 mapping = {
-    "neutral":  "Neutral",  "confusion": "Neutral",  "indifference": "Neutral",
-    "numbness": "Neutral",  "nostalgia": "Neutral",  "ambivalence":  "Neutral",
-    "pensive":  "Neutral",
-    "positive": "Positive", "happiness": "Positive", "joy":    "Positive",
-    "love":     "Positive", "amusement": "Positive", "enjoyment":"Positive",
-    "admiration":"Positive","affection":"Positive",  "awe":    "Positive",
-    "negative": "Negative", "anger":     "Negative", "sadness":"Negative",
-    "fear":     "Negative", "hate":      "Negative", "disgust":"Negative"
+    # Neutral ─────────────────────────────────────────
+    "neutral":"Neutral","confusion":"Neutral","indifference":"Neutral",
+    "numbness":"Neutral","nostalgia":"Neutral","ambivalence":"Neutral",
+    "pensive":"Neutral",
+
+    # Positive ───────────────────────────────────────
+    "positive":"Positive","happiness":"Positive","joy":"Positive","love":"Positive",
+    "amusement":"Positive","enjoyment":"Positive","admiration":"Positive",
+    "affection":"Positive","awe":"Positive","acceptance":"Positive","adoration":"Positive",
+    "anticipation":"Positive","calmness":"Positive","excitement":"Positive",
+    "elation":"Positive","euphoria":"Positive","contentment":"Positive",
+    "serenity":"Positive","gratitude":"Positive","hope":"Positive","empowerment":"Positive",
+    "compassion":"Positive","tenderness":"Positive","arousal":"Positive",
+    "enthusiasm":"Positive","fulfillment":"Positive","reverence":"Positive",
+    "kind":"Positive","pride":"Positive","zest":"Positive","hopeful":"Positive",
+    "grateful":"Positive","empathetic":"Positive","compassionate":"Positive",
+    "playful":"Positive","free-spirited":"Positive","inspired":"Positive",
+    "confident":"Positive","overjoyed":"Positive","inspiration":"Positive",
+    "motivation":"Positive","joyfulreunion":"Positive","satisfaction":"Positive",
+    "blessed":"Positive","appreciation":"Positive","confidence":"Positive",
+    "accomplishment":"Positive","wonderment":"Positive","optimism":"Positive",
+    "enchantment":"Positive","intrigue":"Positive","playfuljoy":"Positive",
+    "mindfulness":"Positive","dreamchaser":"Positive","elegance":"Positive",
+    "whimsy":"Positive","thrill":"Positive","harmony":"Positive","creativity":"Positive",
+    "radiance":"Positive","wonder":"Positive","rejuvenation":"Positive",
+    "coziness":"Positive","adventure":"Positive","melodic":"Positive",
+    "festivejoy":"Positive","innerjourney":"Positive","freedom":"Positive",
+    "dazzle":"Positive","adrenaline":"Positive","artisticburst":"Positive",
+    "culinaryodyssey":"Positive","spark":"Positive","marvel":"Positive",
+    "positivity":"Positive","kindness":"Positive","friendship":"Positive",
+    "success":"Positive","exploration":"Positive","amazement":"Positive",
+    "romance":"Positive","captivation":"Positive","tranquility":"Positive",
+    "grandeur":"Positive","emotion":"Positive","energy":"Positive",
+    "celebration":"Positive","charm":"Positive","ecstasy":"Positive",
+    "colorful":"Positive","hypnotic":"Positive","connection":"Positive",
+    "iconic":"Positive","journey":"Positive","engagement":"Positive",
+    "touched":"Positive","triumph":"Positive","heartwarming":"Positive",
+    "breakthrough":"Positive","joy in baking":"Positive","imagination":"Positive",
+    "vibrancy":"Positive","mesmerizing":"Positive","culinary adventure":"Positive",
+    "winter magic":"Positive","thrilling journey":"Positive","nature's beauty":"Positive",
+    "celestial wonder":"Positive","creative inspiration":"Positive",
+    "runway creativity":"Positive","ocean's freedom":"Positive",
+    "whispers of the past":"Positive","relief":"Positive","happy":"Positive",
+
+    # Negative ───────────────────────────────────────
+    "negative":"Negative","anger":"Negative","fear":"Negative","sadness":"Negative",
+    "disgust":"Negative","disappointed":"Negative","bitter":"Negative","shame":"Negative",
+    "despair":"Negative","grief":"Negative","loneliness":"Negative","jealousy":"Negative",
+    "resentment":"Negative","frustration":"Negative","boredom":"Negative","anxiety":"Negative",
+    "intimidation":"Negative","helplessness":"Negative","envy":"Negative","regret":"Negative",
+    "bitterness":"Negative","yearning":"Negative","fearful":"Negative",
+    "apprehensive":"Negative","overwhelmed":"Negative","jealous":"Negative",
+    "devastated":"Negative","frustrated":"Negative","envious":"Negative",
+    "dismissive":"Negative","bittersweet":"Negative","sad":"Negative","hate":"Negative",
+    "bad":"Negative","embarrassed":"Negative","mischievous":"Negative","lostlove":"Negative",
+    "betrayal":"Negative","suffering":"Negative","emotionalstorm":"Negative",
+    "isolation":"Negative","disappointment":"Negative","heartbreak":"Negative",
+    "sorrow":"Negative","darkness":"Negative","desperation":"Negative","ruins":"Negative",
+    "desolation":"Negative","loss":"Negative","heartache":"Negative","obstacle":"Negative",
+    "pressure":"Negative","miscalculation":"Negative","exhaustion":"Negative",
 }
 
 df["Sentiment"] = (
@@ -108,3 +160,9 @@ hour_avg = (
 hour_avg.to_json("static/data/hourly.json", orient="records", indent=2)
 
 print("✔ JSON files rebuilt in static/data/")
+
+pathlib.Path("static/data").mkdir(parents=True, exist_ok=True)
+pathlib.Path("models").mkdir(parents=True, exist_ok=True)         
+
+# ── save cleaned CSV for training ────────────────────────────────
+df.to_csv("models/sentimentdataset.csv", index=False)     

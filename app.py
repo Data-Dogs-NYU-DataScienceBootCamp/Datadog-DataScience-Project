@@ -9,6 +9,7 @@ from tensorflow.keras.preprocessing.sequence import pad_sequences
 import numpy as np
 import random
 
+
 STARTERS = ["This is", "Feeling", "Discover", "Experience", "Embrace", "Unleash", "Dive into"]
 
 
@@ -38,23 +39,36 @@ def next_words(seed: str, n: int = 100, temperature: float = 1.0) -> str:
 
 
 # ── BERT sentiment pipeline (PyTorch) 
-model_name = "cardiffnlp/twitter-roberta-base-sentiment"
-tokenizer = AutoTokenizer.from_pretrained(model_name)
-model = AutoModelForSequenceClassification.from_pretrained(model_name)
+import train_sentiment, sys
+sys.modules["__main__"] = train_sentiment   # SentimentClassifier lives here
+# ----------------------------------------------------------------
 
-sentiment_pipe = pipeline("sentiment-analysis", model=model, tokenizer=tokenizer, framework="pt")
+import torch
+with open("models/sentiment_model.pkl", "rb") as f:
+    sentiment_clf = pickle.load(f)
+
+sentiment_clf.model.to("cpu")                   
+DEVICE = torch.device("cpu")                     
+
+EMOJI = {"positive": "😊", "neutral": "😐", "negative": "😞"}
 
 def predict_sentiment(text: str):
-    out = sentiment_pipe(text, truncation=True)[0]
-    raw_label, score = out["label"], out["score"]
+    """
+    Returns (label, score, emoji)
+    score = softmax confidence from the model (max logit probability).
+    """
+    label = sentiment_clf.predict(text)   # 'positive' | 'neutral' | 'negative'
 
-    # map RoBERTa’s LABEL_0/1/2 → human-readable
-    pretty = {"LABEL_0": "negative",
-              "LABEL_1": "neutral",
-              "LABEL_2": "positive"}.get(raw_label, raw_label)
+    # optional: expose probability as score
+    # (model returns only logits via internal call; we can compute softmax here)
+    import torch.nn.functional as F, torch
+    toks   = sentiment_clf.tokenizer(text, return_tensors="pt", truncation=True,
+                                     padding=True, max_length=128)
+    logits = sentiment_clf.model(**toks).logits
+    probs  = F.softmax(logits, dim=-1)[0]
+    score  = float(probs.max())           # confidence of predicted class
 
-    mood = {"positive": "😊", "neutral": "😐", "negative": "😞"}.get(pretty, "🤔")
-    return pretty, score, mood
+    return label, score, EMOJI[label]
 
 
 app = Flask(__name__)

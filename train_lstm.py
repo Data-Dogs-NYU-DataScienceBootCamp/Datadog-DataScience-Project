@@ -6,7 +6,7 @@ from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Embedding, LSTM, Dense
 
 
-df = pd.read_csv("data/sentimentdataset.csv")
+df = pd.read_csv("models/sentimentdataset.csv")
 
 # try common names; fall back to first string column
 candidates = ["text", "tweet", "content", "message", "post", "body", "comment"]

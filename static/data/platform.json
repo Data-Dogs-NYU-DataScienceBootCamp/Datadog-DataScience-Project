@@ -1,0 +1,19 @@
+{
+  "labels": [
+    "Instagram",
+    "Twitter",
+    "Facebook"
+  ],
+  "data": [
+    258,
+    243,
+    231
+  ],
+  "colors": [
+    "#1DA1F2",
+    "#E4405F",
+    "#5865F2",
+    "#ff9800",
+    "#9c27b0"
+  ]
+}

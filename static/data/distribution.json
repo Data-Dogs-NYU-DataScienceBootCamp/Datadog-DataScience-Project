@@ -1,1 +1,22 @@
-{"labels": ["Neutral", "Positive", "Negative"], "counts": [594, 117, 21]}
+{
+  "labels": [
+    "Neutral",
+    "Positive",
+    "Negative"
+  ],
+  "datasets": [
+    {
+      "label": "Sentiment Distribution",
+      "backgroundColor": [
+        "#4caf50",
+        "#ffc107",
+        "#f44336"
+      ],
+      "data": [
+        594,
+        117,
+        21
+      ]
+    }
+  ]
+}

@@ -1,10 +1,9 @@
-
 import os
 os.environ["TRANSFORMERS_NO_TF_IMPORT"] = "1"
 
 import json, pickle
 from flask import Flask, render_template, request, jsonify
-from transformers import pipeline
+from transformers import pipeline, AutoTokenizer, AutoModelForSequenceClassification
 import keras                                
 from tensorflow.keras.preprocessing.sequence import pad_sequences
 import numpy as np
@@ -39,11 +38,11 @@ def next_words(seed: str, n: int = 100, temperature: float = 1.0) -> str:
 
 
 # ── BERT sentiment pipeline (PyTorch) 
-sentiment_pipe = pipeline(
-    "sentiment-analysis",
-    model="cardiffnlp/twitter-roberta-base-sentiment",
-    framework="pt"                 
-)
+model_name = "cardiffnlp/twitter-roberta-base-sentiment"
+tokenizer = AutoTokenizer.from_pretrained(model_name)
+model = AutoModelForSequenceClassification.from_pretrained(model_name)
+
+sentiment_pipe = pipeline("sentiment-analysis", model=model, tokenizer=tokenizer, framework="pt")
 
 def predict_sentiment(text: str):
     out = sentiment_pipe(text, truncation=True)[0]

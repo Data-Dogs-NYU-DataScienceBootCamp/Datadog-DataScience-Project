@@ -19,5 +19,6 @@
 {% endblock %}
 
 {% block scripts %}
+{{ super() }}
 <script src="{{ url_for('static', filename='js/charts.js') }}" defer></script>
 {% endblock %}
